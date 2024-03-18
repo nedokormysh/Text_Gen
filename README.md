@@ -1,7 +1,5 @@
 # Text_Gen
 
-# lin_models_presentation
-
 Учебный проект по курсу "Рекуррентные сети в NLP и приложениях" от AI Education.
 
 ### Задача
